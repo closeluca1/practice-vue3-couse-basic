@@ -1,0 +1,6 @@
+.btnAble{
+    cursor: pointer;
+}
+.btnDisabled {
+    cursor: not-allowed;
+}
